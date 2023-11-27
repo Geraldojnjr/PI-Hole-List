@@ -17234,7 +17234,7 @@ google.gus.host
 googleads.g.doubleclick.net
 googleads2.g.doubleclick.net
 googleads4.g.doubleclick.net
-googleadservices.com
+#googleadservices.com
 googleanalytcs.com
 googleanalytcs.com 
 googlesyndication.com
@@ -24103,7 +24103,7 @@ pads1.go2cloud.org
 padsdel.cdnads.com
 padv.co.il
 pafovocg.bid
-pagead2.googleadservices.com
+#pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 pagecount.com
@@ -24171,7 +24171,7 @@ partner.dhl.de
 partner.e-conomic.com
 partner.finline.ua
 partner.gewinnspiele.de
-partner.googleadservices.com
+#partner.googleadservices.com
 partner.leguide.com
 partner.maxxim.de
 partner.monetizus.com
